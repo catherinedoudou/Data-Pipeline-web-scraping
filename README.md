@@ -2,7 +2,7 @@
 Build as large of a dataset as I can by web scraping.  Preprocess the examples by cleaning and formatting them.
 
 
-## What?
+## How
 The main idea is that you'll use web scraping to collect data from the internet. You'll put this data together to create a dataset which you can use for future projects.
 
 ## Deliverables
