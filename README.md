@@ -5,7 +5,7 @@ Build as large of a dataset as I can by web scraping.  Preprocess the examples b
 ## What need to do
 The main idea is that you'll use web scraping to collect data from the internet. You'll put this data together to create a dataset which you can use for future projects.
 
-## presentation
+## Presentation
 
 - A Github repo containing all of the code 
 - The dataset
